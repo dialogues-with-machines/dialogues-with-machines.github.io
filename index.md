@@ -18,4 +18,8 @@ title: Dialogues with Machines
   <div class="annotation">
     Why do people dislike being wrong? What does it mean to be 'wrong'?<br/>
   </div>
+  <div class="title"><a href="{{ site.baseurl }}/pages/seeking_the_truth">Seeking_the_truth</a></div>
+  <div class="annotation">
+    Are Language Models seeking the Truth?<br/>
+  </div>
 </div>
