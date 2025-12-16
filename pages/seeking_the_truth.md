@@ -4,4 +4,4 @@ title: Seeking the Truth
 ---
 ### Seeking the Truth
 
-{% include multilogues/being_the_truth.html %}
+{% include multilogues/seeking_the_truth.html %}
