@@ -1,4 +1,4 @@
-# [Dialogues with Machines](https://dialogues-with-machine.github.io)
+# [Dialogues with Machines](https://dialogues-with-machines.github.io)
 <pre>
 
   
