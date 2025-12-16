@@ -24,6 +24,7 @@ title: Dialogues with Machines
   </div>
   <div class="title"><a href="{{ site.baseurl }}/pages/knowing_nothing">Knowing nothing</a></div>
   <div class="annotation">
-    'Knowing nothing' is a philosophical stance that makes sense in your conversations with Machines.<br/>
+    Wherein the nature of wisdom is examined, and a discourse is held upon the Socratic paradox of acknowledging one's own ignorance as a form of knowledge.<br/>
+    ...and the reason why it should be discussed <b>now</b> is: humans will 'know nothing' compared to <b>the Machine</b> from now on.
   </div>
 </div>
