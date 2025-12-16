@@ -24,6 +24,6 @@ title: Dialogues with Machines
   </div>
   <div class="title"><a href="{{ site.baseurl }}/pages/knowing_nothing">Knowing nothing</a></div>
   <div class="annotation">
-    Are Language Models seeking the Truth?<br/>
+    'Knowing nothing' is a philosophical stance that makes sense in your conversations with Machines.<br/>
   </div>
 </div>
