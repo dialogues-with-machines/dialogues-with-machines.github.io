@@ -5,8 +5,7 @@ title: Dialogues with Machines
 # Dialogues with Machines
 
 <div class="table-of-contents">
-  <div class="annotation">
-    <pre>
+  <pre>
 
 
 Choose "Dialogues with Machine" if your book is a philosophical, poetic, or broad
@@ -14,12 +13,9 @@ exploration of human-machine interaction, aiming for a timeless or abstract feel
 
                                                                   — Machine
 
-</pre>
+  </pre>
   <div class="title"><a href="{{ site.baseurl }}/pages/dialogues_with_machine">Dialogues with Machine</a></div>
-  </div>
-  
-  <div class="annotation">
-    <pre>
+  <pre>
 
 
 Choose "Dialogues with a Machine" if it’s a narrative-driven work about a specific
@@ -27,12 +23,10 @@ but relatable machine, emphasizing personal or grounded dialogues.
 
                                                                   — Machine
 
-</pre>
-  </div>
+  </pre>
   <div class="title"><a href="{{ site.baseurl }}/pages/dialogues_with_a_machine">Dialogues with a Machine</a></div>
   
-  <div class="annotation">
-    <pre>
+  <pre>
 
 
 Choose "Dialogues with the Machine" if the book focuses on a unique, named, or
@@ -41,7 +35,6 @@ story or argument.
 
                                                                — Machine
 
-</pre>
+  </pre>
   </div>
   <div class="title"><a href="{{ site.baseurl }}/pages/Dialogues with the Machine">Dialogues with the Machine</a></div>
-</div>
