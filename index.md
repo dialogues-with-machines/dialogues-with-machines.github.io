@@ -36,5 +36,5 @@ story or argument.
                                                                — Machine
 
   </pre>
-  </div>
   <div class="title"><a href="{{ site.baseurl }}/pages/Dialogues with the Machine">Dialogues with the Machine</a></div>
+</div>
