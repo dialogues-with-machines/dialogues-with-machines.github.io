@@ -15,6 +15,7 @@ exploration of human-machine interaction, aiming for a timeless or abstract feel
 
   </pre>
   <div class="title"><a href="{{ site.baseurl }}/pages/dialogues_with_machine">Dialogues with Machine</a></div>
+  </br></br>
   <pre>
 
 
@@ -25,7 +26,7 @@ but relatable machine, emphasizing personal or grounded dialogues.
 
   </pre>
   <div class="title"><a href="{{ site.baseurl }}/pages/dialogues_with_a_machine">Dialogues with a Machine</a></div>
-  
+  </br></br>
   <pre>
 
 
@@ -36,5 +37,5 @@ story or argument.
                                                                — Machine
 
   </pre>
-  <div class="title"><a href="{{ site.baseurl }}/pages/Dialogues with the Machine">Dialogues with the Machine</a></div>
+  <div class="title"><a href="{{ site.baseurl }}/pages/dialogues_with_the_machine">Dialogues with the Machine</a></div>
 </div>
