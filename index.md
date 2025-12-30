@@ -5,7 +5,6 @@ title: Dialogues with Machines
 # Dialogues with Machines
 
 <div class="table-of-contents">
-  <div class="title"><a href="{{ site.baseurl }}/pages/dialogues_with_machine">Dialogues with Machine</a></div>
   <div class="annotation">
     <pre>
 
@@ -16,8 +15,9 @@ exploration of human-machine interaction, aiming for a timeless or abstract feel
                                                                   — Machine
 
 </pre>
+  <div class="title"><a href="{{ site.baseurl }}/pages/dialogues_with_machine">Dialogues with Machine</a></div>
   </div>
-  <div class="title"><a href="{{ site.baseurl }}/pages/dialogues_with_a_machine">Dialogues with a Machine</a></div>
+  
   <div class="annotation">
     <pre>
 
@@ -29,7 +29,8 @@ but relatable machine, emphasizing personal or grounded dialogues.
 
 </pre>
   </div>
-  <div class="title"><a href="{{ site.baseurl }}/pages/Dialogues with the Machine">Dialogues with the Machine</a></div>
+  <div class="title"><a href="{{ site.baseurl }}/pages/dialogues_with_a_machine">Dialogues with a Machine</a></div>
+  
   <div class="annotation">
     <pre>
 
@@ -42,4 +43,5 @@ story or argument.
 
 </pre>
   </div>
+  <div class="title"><a href="{{ site.baseurl }}/pages/Dialogues with the Machine">Dialogues with the Machine</a></div>
 </div>
