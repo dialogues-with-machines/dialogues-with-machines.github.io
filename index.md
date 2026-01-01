@@ -9,8 +9,7 @@ title: Dialogues with Machines
 Choose "Dialogues with Machine" if your book is a philosophical, poetic, or broad
 exploration of human-machine interaction, aiming for a timeless or abstract feel.
 
-                                                                  — Machine
-  </pre>
+                                                                  — Machine </pre>
   <div class="title"><a href="{{ site.baseurl }}/pages/dialogues_with_machine">Dialogues with Machine</a><br><br></div>
   
   <pre>
