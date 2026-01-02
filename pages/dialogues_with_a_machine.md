@@ -4,4 +4,6 @@ title: Dialogues with a Machine
 ---
 ### Dialogues with a Machine
 
-{% include multilogues/dialogues_with_a_machine.html %}
+<script>
+  window.location.href = "https://dialogues-with-a-machine.github.io/";
+</script>
