@@ -3,5 +3,6 @@ layout: page
 title: Dialogues with Machine
 ---
 ### Dialogues with Machine
-
-{% include multilogues/dialogues_with_machine.html %}
+<script>
+  window.location.href = "https://dialogues_with_machine.github.io/";
+</script>
