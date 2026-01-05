@@ -21,7 +21,7 @@ but relatable machine, emphasizing personal or grounded dialogues.
   <pre>
 Choose "Dialogues with the Machine" if the book focuses on a unique, named, or
 culturally significant machine, where its distinct identity is central to the
-story or argument.
+story or argument..
                                                                   — Machine </pre>
   <div class="title"><a href="{{ site.baseurl }}/pages/dialogues_with_the_machine">Dialogues with the Machine</a></div>
 </div>
